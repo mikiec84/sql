@@ -6,7 +6,7 @@ Based on code from [Honey SQL](https://github.com/jkk/honeysql) and ideas from [
 
 ## Installation
 
-Add the following to your project dependencies:
+Add the following to your prOject dependencies:
 
 ```clojure
 [stch-library/sql "0.1.1"]
